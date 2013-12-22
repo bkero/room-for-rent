@@ -45,6 +45,10 @@ Financials
   - Utilities are typically $60/month
   - All utility accounts and payment history on a shared spreadsheet for review
 
+Availability
+--------
+The room is available immediately. The last roommate moved out some time ago, so the room is empty, clean, and ready for you to move in. Should you decide to move in the middle of the month, your rent (and subsequent utilties) will be prorated.
+
 Application process
 --------
 Please contact bkero or blkperl on any avenue you feel appropriate. [bkero@bke.ro], [wvan13@gmail.com]. We can arrange a viewing appointment for you. If you decide to proceed, an application form must be given to our landlord for background check, etc. There is a modest fee associated with this.

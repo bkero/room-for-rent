@@ -1,3 +1,6 @@
+Edit: This vacancy has been filled
+---------
+
 Room to let
 =========
 

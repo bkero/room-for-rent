@@ -6,7 +6,8 @@ For the benefit of interested  parties, this page describes the properties of a 
 Proximity
 --------
   - Located in Portland's Northeast quadrant with easy access to:
-    - Mississippi neighborhood
+    - Williams (1 block away)
+    - Mississippi
     - East Broadway
     - Alberta
     - Downtown

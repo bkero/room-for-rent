@@ -1,5 +1,5 @@
 Room to let
-=========
+===========
 
 For the benefit of interested  parties, this page describes the properties of a room to let at the house of [bkero], [Alan], and [you]. Particulars are as follows:
 
@@ -26,16 +26,17 @@ Attributes
   - Back patio with elevated porch and grill (fenced in)
     - Some garden space, 1 raised bed currently installed
   - 'Palatial' kitchen
-  - 60/25 Mbit Internet connection (Comcast) with 802.11N throughout
+  - 100/30 Mbit Internet connection (Comcast) with 802.11ac throughout (gigabit CenturyLink fiber incoming)
   - (Sadly) there is a no-pet policy in our rental agreement
   - There is also a no smoking policy in there too
   - Washer & dryer provided
   - Of your room in particular
     - Second floor (above kitchen)
     - Your own full bathroom (w/ tub)
+  - 1 year lease
 
 Us
---------
+--
 Both of us are existing workers in the tech industry in Portland. Often times I (bkero) take business trips and must spend extended time away. We are young professionals, although it is not strictly necessary that you are.
 
 Financials
